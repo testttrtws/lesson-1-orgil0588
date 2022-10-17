@@ -1,5 +1,5 @@
 function sum(input) {
-return input + "hi"
+return input + " hi"
 }
 
 module.exports = sum;

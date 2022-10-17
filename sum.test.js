@@ -2,5 +2,5 @@ const sum = require('./sum');
 
 test('outputs the correct string', () => {
 
-  expect(sum("hi hi")).toBe("hi hi");
+  expect(sum("hi")).toBe("hi hi");
 });
